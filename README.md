@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 📚 I'm finishing up my 4th year as a Computer Science Major at UBC
 - 🔭 I’m currently working on HomeStream app/server for my personal media needs
 - 🌱 I’m currently learning Swift/SwiftUI
+
+![](https://komarev.com/ghpvc/?username=jmhirsch&color=blueviolet&style=flat&label=CT)
