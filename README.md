@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 
 -->
-- 📚 I'm finishing up my 4th year as a Computer Science Major at UBC
+- 🎓 I just finished my Bachelor's degree in Computer Science at UBC
+- 🌐 I love working on databases and cloud systems
 - 🔭 I’m currently working on HomeStream app/server for my personal media needs
 - 🌱 I’m currently learning Swift/SwiftUI
 
