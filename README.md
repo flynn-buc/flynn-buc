@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 
 -->
-- 🎓 I just finished my Bachelor's degree in Computer Science at UBC
-- 🌐 I love working on databases and cloud systems
-- 🔭 I’m currently working on HomeStream app/server for my personal media needs
-- 🌱 I’m currently learning Swift/SwiftUI
+🎓 I just finished my Bachelor's degree in Computer Science at UBC<br/>
+🌐 I love working on databases and cloud systems<br/>
+🔭 I’m currently working on HomeStream app/server for my personal media needs<br/>
+🌱 I’m currently learning Swift/SwiftUI<br/>
 
 ### Skills
 
