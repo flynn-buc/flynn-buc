@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on HomeStream app/server for my personal media needs
 - 🌱 I’m currently learning Swift/SwiftUI
 
+### Skills
+#### Languages
+- Java, Golang, C/C++, JS/TS, CSS, Swift, SQL, Bash
+#### Frameworks
+- JavaFX/Swing, JDBC, SwiftUI/UIKit, React, Node
+#### Tools & Others
+- AWS, Azure, Xcode, Jetbrains IDEs, Unix, Git
+
 ![](https://komarev.com/ghpvc/?username=jmhirsch&color=blueviolet&style=flat&label=CT)
 ![](https://hit.yhype.me/github/profile?user_id=54959558)
