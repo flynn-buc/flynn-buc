@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift/SwiftUI
 
 ### Skills
+
 #### Languages
 - Java, Golang, C/C++, JS/TS, CSS, Swift, SQL, Bash
+
 #### Frameworks
 - JavaFX/Swing, JDBC, SwiftUI/UIKit, React, Node
 #### Tools & Others
@@ -22,3 +24,4 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=jmhirsch&color=blueviolet&style=flat&label=CT) -->
 ![](https://hit.yhype.me/github/profile?user_id=54959558)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhirsch&layout=compact&hide=html&langs_count=6)](https://github.com/jmhirsch/github-readme-stats)
