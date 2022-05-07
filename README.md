@@ -23,5 +23,11 @@ Here are some ideas to get you started:
 - AWS, Azure, Xcode, Jetbrains IDEs, Unix, Git, OracleSQL
 
 <!-- ![](https://komarev.com/ghpvc/?username=jmhirsch&color=blueviolet&style=flat&label=CT) -->
+<a href="https://github.com/jmhirsch/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmhirsch&layout=compact&hide=html&langs_count=6" />
+</a>
+
+
 ![](https://hit.yhype.me/github/profile?user_id=54959558)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmhirsch&layout=compact&hide=html&langs_count=6)](https://github.com/jmhirsch/github-readme-stats)
+
+
