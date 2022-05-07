@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Java, Golang, C/C++, JS/TS, CSS, Swift, SQL, Bash
 
 #### Frameworks
-- JavaFX/Swing, JDBC, SwiftUI/UIKit, React, Node
+- JavaFX/Swing, JDBC, SwiftUI/UIKit, React, Node, D3
 #### Tools & Others
 - AWS, Azure, Xcode, Jetbrains IDEs, Unix, Git, OracleSQL
 
