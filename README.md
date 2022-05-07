@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### Frameworks
 - JavaFX/Swing, JDBC, SwiftUI/UIKit, React, Node
 #### Tools & Others
-- AWS, Azure, Xcode, Jetbrains IDEs, Unix, Git
+- AWS, Azure, Xcode, Jetbrains IDEs, Unix, Git, OracleSQL
 
-![](https://komarev.com/ghpvc/?username=jmhirsch&color=blueviolet&style=flat&label=CT)
+<!-- ![](https://komarev.com/ghpvc/?username=jmhirsch&color=blueviolet&style=flat&label=CT) -->
 ![](https://hit.yhype.me/github/profile?user_id=54959558)
