@@ -12,7 +12,7 @@ I'm Jonathan!<br/>
 🌐 I love working on databases and cloud systems<br/>
 🔭 I’m currently working on HomeStream app/server for my personal media needs<br/>
 🌱 I’m currently learning Swift/SwiftUI<br/>
-Learn more about me: [jonathanhirsch.ca](jonathanhirsch.ca)
+Learn more about me: [jonathanhirsch.ca](https://jonathanhirsch.ca)
 
 ### Skills
 
