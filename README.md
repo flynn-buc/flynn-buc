@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmhirsch&layout=compact&hide=html&langs_count=6" />
 </a>
 
-
 ![](https://hit.yhype.me/github/profile?user_id=54959558)
 
+[jonathanhirsch.ca](jonathanhirsch.ca)
 
