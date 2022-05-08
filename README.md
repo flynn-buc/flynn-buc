@@ -7,10 +7,12 @@ Here are some ideas to get you started:
 
 
 -->
+I'm Jonathan!<br/>
 🎓 I just finished my Bachelor's degree in Computer Science at UBC<br/>
 🌐 I love working on databases and cloud systems<br/>
 🔭 I’m currently working on HomeStream app/server for my personal media needs<br/>
 🌱 I’m currently learning Swift/SwiftUI<br/>
+Learn more about me: [jonathanhirsch.ca](jonathanhirsch.ca)
 
 ### Skills
 
@@ -29,5 +31,4 @@ Here are some ideas to get you started:
 
 ![](https://hit.yhype.me/github/profile?user_id=54959558)
 
-[jonathanhirsch.ca](jonathanhirsch.ca)
 
